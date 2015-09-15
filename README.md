@@ -4,23 +4,25 @@ An opinionated collection of Sass best practices
 
 ## Syntax & Formatting
 
-Two (2) spaces for indent, no tabs
+Two spaces for indent, no tabs
 
 Max 80-characters per line
 
-One rule per line
-
 Open bracket on same line as selector; close bracket on its own line
 
-Blank line between selector blocks
+One rule per line
 
 No space before colon; one space after
+
+Blank line between selector blocks
 
 ## Sass features
 
 Use of variables, @extend and @include
 
-Pseudo-selectors as child rules - hover, active, focus
+Maximum three levels of nesting
+
+Modifiers and pseudo-selectors as child rules: hover, active, focus
 
 Responsive: breakpoints, media query mixins
 
