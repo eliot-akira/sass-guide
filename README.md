@@ -1,10 +1,8 @@
-## Sass Guide
+# Sass Guide
 
 An opinionated collection of Sass best practices
 
----
-
-### Syntax & Formatting
+## Syntax & Formatting
 
 - Two (2) spaces for indent, no tabs
 
@@ -18,9 +16,7 @@ An opinionated collection of Sass best practices
 
 - No space before colon; one space after
 
----
-
-### Sass features
+## Sass features
 
 - Use of variables, @extend and @include
 
@@ -28,9 +24,7 @@ An opinionated collection of Sass best practices
 
 - Responsive: breakpoints, media query mixins
 
----
-
-### Architecture
+## Architecture
 
 base
 
@@ -51,8 +45,6 @@ pages
 utils
 
   - Mixins, helpers
-
----
 
 ## References
 
