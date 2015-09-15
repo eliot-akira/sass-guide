@@ -46,6 +46,10 @@ utils
 
   - Mixins, helpers
 
+## Build
+
+An example of using Sass with compile, minify and watch tasks: [Sass Example](https://github.com/eliot-akira/sass-example)
+
 ## References
 
 [Sass Style Guide](https://css-tricks.com/sass-style-guide/)
