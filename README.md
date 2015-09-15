@@ -18,6 +18,8 @@ An opinionated collection of Sass best practices
 
 - No space before colon; one space after
 
+---
+
 ### Sass features
 
 - Use of variables, @extend and @include
@@ -49,6 +51,8 @@ pages
 utils
 
   - Mixins, helpers
+
+---
 
 ## References
 
