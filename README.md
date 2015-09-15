@@ -50,9 +50,7 @@ utils
 
   - Mixins, helpers
 
----
-
-### References
+## References
 
 - [Sass Style Guide](https://css-tricks.com/sass-style-guide/)
 
