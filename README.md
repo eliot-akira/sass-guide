@@ -50,7 +50,9 @@ utils
 
 ## Build
 
-An example of using Sass with compile, minify and watch tasks: [Sass Example](https://github.com/eliot-akira/sass-example)
+A basic example of using Sass with compile, minify and watch tasks: [Sass Example](https://github.com/eliot-akira/sass-example)
+
+An example using Gulp build system: [Boots](https://github.com/eliot-akira/boots)
 
 ## References
 
