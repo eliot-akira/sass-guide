@@ -1,6 +1,6 @@
 # Sass Guide
 
-An opinionated collection of Sass best practices
+A collection of Sass best practices
 
 ## Syntax & Formatting
 
